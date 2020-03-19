@@ -77,6 +77,7 @@ def main():
     for i in range(1, 101):
         page_url = 'http://www.doutula.com/article/list/?page=%d' % i
         url_queue.put(page_url)
+    # 创建几个生产者和消费者
     for x in range(5):
         t = Producer(url_queue,img_queue)
         t.start()
