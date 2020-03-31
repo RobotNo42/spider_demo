@@ -21,3 +21,4 @@ class MessiSpider(CrawlSpider):
         create_time = response.xpath("//*[@id='posts']/article/div/header/div/span[1]/time/text()").get().strip()
         item = MessiBlogItem(title=title, create_time=create_time)
         yield item
+
