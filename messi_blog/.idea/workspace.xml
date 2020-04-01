@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bb713195-3c68-44f2-ae95-2e3ff9eb2802" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../carhome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../carhome/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messi_blog/spiders/messi.py" beforeDir="false" afterPath="$PROJECT_DIR$/messi_blog/spiders/messi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carhome/carhome/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../carhome/carhome/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carhome/carhome/spiders/bm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../carhome/carhome/spiders/bm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +17,12 @@
     <session id="194517953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/messi_blog/spiders/messi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="380">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
@@ -96,7 +98,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/messi_blog/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-724">
+            <state relative-caret-position="-437">
               <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
             </state>
           </provider>
@@ -128,7 +130,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -140,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,7 +165,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,10 +200,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,12 +246,22 @@
     <entry file="file://$PROJECT_DIR$/messi_blog/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/messi_blog/items.py">
+    <entry file="file://$PROJECT_DIR$/blog.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messi_blog/spiders/messi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="380">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1585659826023" expanded="true" signature="531:537" ph="..." />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messi_blog/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/messi_blog/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -261,26 +273,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/messi_blog/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/messi_blog/spiders/messi.py">
+    <entry file="file://$PROJECT_DIR$/messi_blog/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-            <marker date="1585659826023" expanded="true" signature="531:537" ph="..." />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/messi_blog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-724">
+        <state relative-caret-position="-437">
           <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>

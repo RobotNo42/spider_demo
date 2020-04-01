@@ -14,7 +14,7 @@ class BmSpider(CrawlSpider):
     )
 
     def parse_page(self, response):
-        category = response.xpath("/html/body/div[2]/div/div[2]/div[7]/div/div[2]/div[1]/text()").get()
+        category = response.xpath("//div[@class='uibox']/div[@class='uibox-title']").get()
         detail_urls = response.xpath("/html/body/div[2]/div/div[2]/div[7]/div/div[2]/div[2]/ul/li/a/img/@src").getall()
         detail_urls = list(map(lambda x: x.replace("240x180", "1024x0"), detail_urls))
         image_urls = list(map(lambda x: response.urljoin(x), detail_urls))
