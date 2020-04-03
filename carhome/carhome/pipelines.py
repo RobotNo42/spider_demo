@@ -10,6 +10,7 @@ from scrapy.exceptions import DropItem
 import os
 
 
+# 因为ImagesPipeline的下载位置不符合我们想要的，所以我们要自己写一个
 class BMWImagesPipeline(ImagesPipeline):
     def get_media_requests(self, item, info):
         # 这个方法是在发送下载请求之前调用，其实这个方法本身就是去发送下载请求的，主要是让其他方法得到item的值
