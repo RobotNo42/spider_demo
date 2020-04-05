@@ -10,7 +10,7 @@ from scrapy.exceptions import DropItem
 import os
 
 
-# 因为ImagesPipeline的下载位置不符合我们想要的，所以我们要自己写一个
+# 因为ImagesPipeline的下载位置是full/，而我们想要的不是这样，所以我们要自己写一个
 class BMWImagesPipeline(ImagesPipeline):
     def get_media_requests(self, item, info):
         # 这个方法是在发送下载请求之前调用，其实这个方法本身就是去发送下载请求的，主要是让其他方法得到item的值
@@ -30,10 +30,3 @@ class BMWImagesPipeline(ImagesPipeline):
         image_name = path.replace("full/", "")
         image_path = os.path.join(category_path, image_name)
         return image_path
-
-    def item_completed(self, results, item, info):
-        image_paths = [x['path'] for ok, x in results if ok]
-        if not image_paths:
-            raise DropItem("Item contains no images")
-        item['image_paths'] = image_paths
-        return item
