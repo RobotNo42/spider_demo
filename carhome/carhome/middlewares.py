@@ -101,3 +101,11 @@ class CarhomeDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class AoisolassSpiderMiddleware(object):
+
+    def process_request(self,request, spider):
+        referer = request.url
+        if referer:
+            request.headers['referer'] = referer

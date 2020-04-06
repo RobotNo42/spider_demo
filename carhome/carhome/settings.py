@@ -40,14 +40,9 @@ ROBOTSTXT_OBEY = False
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
-  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-  'Accept-Language': 'en',
-  'User-Agent':  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36',
-    'Host': 'car.autohome.com.cn',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
-    'sec-fetch-user': '?1',
-  'cookie': 'fvlid=158566178748823mAftgkef; sessionid=4BAEA1F7-CF49-4895-9519-127B1C5F28D5%7C%7C2020-03-31+21%3A36%3A28.603%7C%7Cwww.baidu.com; autoid=33c2a4eb3f087f9b6c7288209f987f3e; area=330110; ahpau=1; sessionuid=4BAEA1F7-CF49-4895-9519-127B1C5F28D5%7C%7C2020-03-31+21%3A36%3A28.603%7C%7Cwww.baidu.com; __ah_uuid_ng=c_4BAEA1F7-CF49-4895-9519-127B1C5F28D5; sessionip=115.204.173.248; Hm_lvt_9924a05a5a75caf05dbbfb51af638b07=1585796147,1585902231,1585967745,1586052666; FromPicList=0; sessionvid=43AA78E0-5569-43BC-8EE9-039B7E927775; pvidchain=2042222,2042222; ahpvno=37; Hm_lpvt_9924a05a5a75caf05dbbfb51af638b07=1586095684; v_no=3; visit_info_ad=4BAEA1F7-CF49-4895-9519-127B1C5F28D5||43AA78E0-5569-43BC-8EE9-039B7E927775||-1||-1||3; ref=www.baidu.com%7C0%7C0%7C0%7C2020-04-05+22%3A08%3A05.769%7C2020-03-31+21%3A36%3A28.603; ahrlid=1586095684109DGO4fSVreo-1586095688867'
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'en',
+    'User-Agent':  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36',
 }
 
 # Enable or disable spider middlewares
@@ -58,9 +53,9 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#DOWNLOADER_MIDDLEWARES = {
-#    'carhome.middlewares.CarhomeDownloaderMiddleware': 543,
-#}
+# DOWNLOADER_MIDDLEWARES = {
+#    'carhome.middlewares.AoisolassSpiderMiddleware': 1,
+# }
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
@@ -71,7 +66,8 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'carhome.pipelines.BMWImagesPipeline': 1,
+   'carhome.pipelines.BMWImagesPipeline':100,
+   # 'scrapy.pipelines.images.ImagesPipeline: 20'
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

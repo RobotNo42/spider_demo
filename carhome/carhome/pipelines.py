@@ -6,12 +6,12 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 from scrapy.pipelines.images import ImagesPipeline
 from carhome.settings import IMAGES_STORE
-from scrapy.exceptions import DropItem
 import os
 
 
 # 因为ImagesPipeline的下载位置是full/，而我们想要的不是这样，所以我们要自己写一个
 class BMWImagesPipeline(ImagesPipeline):
+
     def get_media_requests(self, item, info):
         # 这个方法是在发送下载请求之前调用，其实这个方法本身就是去发送下载请求的，主要是让其他方法得到item的值
         request_objs = super(BMWImagesPipeline, self).get_media_requests(item, info)

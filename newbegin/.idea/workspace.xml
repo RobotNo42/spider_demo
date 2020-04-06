@@ -2,11 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="322bbbc0-87a9-4f4f-bc39-308eed168c7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../wuhan/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuhan/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wuhan/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuhan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wuhan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuhan/.idea/wuhan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../wuhan/.idea/wuhan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuhan/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wuhan/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartest/.idea/cartest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cartest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carhome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../carhome/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carhome/carhome/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../carhome/carhome/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../douban/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../douban/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/0d7204894090f3e9c1a97f37c99f9651a5205eff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/135fc55164d0a77b955efa068909ea20655cce29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1726e5ece9a0a57c6758f153381a0a837fd59e3e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/179eff0cd0b08fdf0784c1235338b75cca541ee5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/220194ccd1e6b45d540ba7b2081a4d7f4d0169c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/26ec97fb5086544dd467c9aefcf6b37d910f4a44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3223f9a1ee2bca8c84536492586dc7fadb406604.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/335edf8e4204201a6643c818135b68272f8564bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3a359dc0a84776af67d4f60294e26fa5366319b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3bbb34367f945e86676d3ae6fc7ee4c3fbd66418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3e251bf2dd4a47479b0236e297c5c7976cae4a4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4093a43bb44eb634d258970b9f543ade6ea2e81e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/449a0d93e660dea044cb28e694c4a03dec22fe13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/545762b73c3577fde4db27b6108c0d250f8b3d79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/553590bab9afde7356046cb707814dc5cd400121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/56a9fcad4fa9a8a77349a0896d81f646b562a074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/58569e9e43a1c2d50fbda90d6b61f9ae9add9ecf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/593251bd211a59e1c8336fa682c1e4e6fa4fe42c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5b7843684478cd3be1062b1c2b237a85122c9b6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/67b9dfabd127e845d327f090ba9e62712de79892.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/693dde7a9b1ac4408f6772b35971526b3fd22cea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/712b5291058d4a86875864d3263cdfb099c0b234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8171579018ac48b29e8062fb7399b8b5c547aaef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/851f04c6987ec02e9b2d5c4044e6310849406662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/866e12f256a1697c6b9915cb8a5e963419fe0363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/898f6f884cc4958067e8e5a74aff6e3815e41c26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8b6b08234c4dd9ad36d54bec9ac4bc61536dd85c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/97ba848b3b46919c9363f7ff8a3fdf695184fd14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9946c348ae71d47e8a17f7c63d92d2e259c216a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9c94e9d394560461e1ec31e7b91295a4838bd53b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9f27f950db69605d10c057f0a10dbbba3b0e4455.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a153ed0df730d442310ee40c62d310b4ad17346a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a260161994974e06403d16baaed2e1ae38ded4bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a4e8e344c7fa3f6e596f86d2ca90f109dac771fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ade4128885b1d2290eb3bd1dbbe0704f027ff034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b0b894133fe8ba7d9df3df4a797486861018ae93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b682a268c503a905d3fd2ef23c791d5c2abb3dcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b86b093887c5bdd5a170e4d6d4cb9bb5e9f6072b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/bbc98e1a64668d78bac034843f29b470461270df.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c19100697d0b389021254e0601cc8f9390c803be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c7d0e78600018172de91fb216315da1800922c29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cca974e37e0c0718b23b1b39f7850682578b7723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cda8bab37216134f37b201797620c0eb47dd608d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ce7db277de2247d5550865844d08e02f7761e203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/db988fb05b25e1ecb196272a873af56997479762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e05bc6c8b0e026d0d04e2e75d31160cac946bd91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ea6a2670cc0802e1e47156feeb5c64bc3d336e06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/eda6954b8de4e12355e73ab19594058c0c21cfa1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ef557602698024b71ce9a86b3796e701c2396d9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ef8179328736826282f39ffcd5a62f011da969b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f257023f4e0d344c93f3c3dc13a04f8e93bcd241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/fec7a9bb40a08f0523923411e25a40ce81b03c52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some spider demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../some spider demo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +83,56 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1014868564">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="4" />
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="4" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newbegin/items.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newbegin/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newbegin/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newbegin/spiders/douban.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newbegin/spiders/hao.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -38,10 +144,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="364" />
-    <option name="y" value="49" />
-    <option name="width" value="1406" />
-    <option name="height" value="1001" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1TqSuOcR1cpx840KZTDqwR5VtWn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,18 +172,29 @@
             <path>
               <item name="newbegin" type="b2602c69:ProjectViewProjectNode" />
               <item name="newbegin" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="full" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newbegin" type="b2602c69:ProjectViewProjectNode" />
               <item name="newbegin" type="462c0819:PsiDirectoryNode" />
+              <item name="newbegin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newbegin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newbegin" type="462c0819:PsiDirectoryNode" />
+              <item name="newbegin" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../douban" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -140,17 +258,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982406" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -158,11 +271,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,5 +289,38 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/newbegin/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/full/3a359dc0a84776af67d4f60294e26fa5366319b3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbegin/spiders/hao.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbegin/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbegin/spiders/douban.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/full/8b6b08234c4dd9ad36d54bec9ac4bc61536dd85c.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/full/67b9dfabd127e845d327f090ba9e62712de79892.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbegin/spiders/bm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbegin/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

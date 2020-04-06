@@ -3,8 +3,65 @@
   <component name="ChangeListManager">
     <list default="true" id="f518c76b-538e-476e-b331-939295d8af9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carhome/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/carhome/middlewares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carhome/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/carhome/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carhome/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/carhome/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carhome/spiders/bm.py" beforeDir="false" afterPath="$PROJECT_DIR$/carhome/spiders/bm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../douban/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../douban/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newbegin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/0d7204894090f3e9c1a97f37c99f9651a5205eff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/135fc55164d0a77b955efa068909ea20655cce29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/1726e5ece9a0a57c6758f153381a0a837fd59e3e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/179eff0cd0b08fdf0784c1235338b75cca541ee5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/220194ccd1e6b45d540ba7b2081a4d7f4d0169c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/26ec97fb5086544dd467c9aefcf6b37d910f4a44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/3223f9a1ee2bca8c84536492586dc7fadb406604.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/335edf8e4204201a6643c818135b68272f8564bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/3a359dc0a84776af67d4f60294e26fa5366319b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/3bbb34367f945e86676d3ae6fc7ee4c3fbd66418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/3e251bf2dd4a47479b0236e297c5c7976cae4a4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/4093a43bb44eb634d258970b9f543ade6ea2e81e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/449a0d93e660dea044cb28e694c4a03dec22fe13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/545762b73c3577fde4db27b6108c0d250f8b3d79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/553590bab9afde7356046cb707814dc5cd400121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/56a9fcad4fa9a8a77349a0896d81f646b562a074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/58569e9e43a1c2d50fbda90d6b61f9ae9add9ecf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/593251bd211a59e1c8336fa682c1e4e6fa4fe42c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/5b7843684478cd3be1062b1c2b237a85122c9b6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/67b9dfabd127e845d327f090ba9e62712de79892.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/693dde7a9b1ac4408f6772b35971526b3fd22cea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/712b5291058d4a86875864d3263cdfb099c0b234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/8171579018ac48b29e8062fb7399b8b5c547aaef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/851f04c6987ec02e9b2d5c4044e6310849406662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/866e12f256a1697c6b9915cb8a5e963419fe0363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/898f6f884cc4958067e8e5a74aff6e3815e41c26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/8b6b08234c4dd9ad36d54bec9ac4bc61536dd85c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/97ba848b3b46919c9363f7ff8a3fdf695184fd14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/9946c348ae71d47e8a17f7c63d92d2e259c216a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/9c94e9d394560461e1ec31e7b91295a4838bd53b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/9f27f950db69605d10c057f0a10dbbba3b0e4455.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/a153ed0df730d442310ee40c62d310b4ad17346a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/a260161994974e06403d16baaed2e1ae38ded4bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/a4e8e344c7fa3f6e596f86d2ca90f109dac771fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/ade4128885b1d2290eb3bd1dbbe0704f027ff034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/b0b894133fe8ba7d9df3df4a797486861018ae93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/b682a268c503a905d3fd2ef23c791d5c2abb3dcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/b86b093887c5bdd5a170e4d6d4cb9bb5e9f6072b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/bbc98e1a64668d78bac034843f29b470461270df.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/c19100697d0b389021254e0601cc8f9390c803be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/c7d0e78600018172de91fb216315da1800922c29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/cca974e37e0c0718b23b1b39f7850682578b7723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/cda8bab37216134f37b201797620c0eb47dd608d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/ce7db277de2247d5550865844d08e02f7761e203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/db988fb05b25e1ecb196272a873af56997479762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/e05bc6c8b0e026d0d04e2e75d31160cac946bd91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/ea6a2670cc0802e1e47156feeb5c64bc3d336e06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/eda6954b8de4e12355e73ab19594058c0c21cfa1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/ef557602698024b71ce9a86b3796e701c2396d9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/ef8179328736826282f39ffcd5a62f011da969b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/f257023f4e0d344c93f3c3dc13a04f8e93bcd241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbegin/images/full/fec7a9bb40a08f0523923411e25a40ce81b03c52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some spider demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../some spider demo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,56 +123,44 @@
     <session id="842392468">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="423" />
+          <entry key="py" value="783" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="423" />
+          <entry key="Python" value="783" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carhome/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="913">
-              <caret line="72" column="44" lean-forward="true" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/carhome/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-              <folding>
-                <element signature="e#194#244#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="332">
+              <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -123,17 +168,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carhome/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="1377">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
+              <folding>
+                <marker date="1586138148175" expanded="true" signature="3640:3645" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carhome/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <element signature="e#197#247#0" expanded="true" />
+                <marker date="1586139615944" expanded="true" signature="297:299" ph="..." />
+                <marker date="1586139615944" expanded="true" signature="391:397" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/program/python/Lib/site-packages/scrapy/pipelines/media.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/carhome/spiders/bm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -144,8 +215,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carhome/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -160,9 +231,10 @@
       <list>
         <option value="$PROJECT_DIR$/carhome/spiders/BMW.py" />
         <option value="$PROJECT_DIR$/carhome/items.py" />
-        <option value="$PROJECT_DIR$/carhome/spiders/bm.py" />
-        <option value="$PROJECT_DIR$/carhome/settings.py" />
+        <option value="$PROJECT_DIR$/carhome/middlewares.py" />
         <option value="$PROJECT_DIR$/carhome/pipelines.py" />
+        <option value="$PROJECT_DIR$/carhome/settings.py" />
+        <option value="$PROJECT_DIR$/carhome/spiders/bm.py" />
       </list>
     </option>
   </component>
@@ -172,7 +244,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -184,6 +256,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,16 +275,10 @@
               <item name="carhome" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="carhome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carhome" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +326,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -273,7 +340,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29533115" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4679696" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32882884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -298,44 +365,63 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/scrapy/pipelines/images.py" />
-    <entry file="file://$PROJECT_DIR$/carhome/middlewares.py">
+    <entry file="file://D:/program/python/Lib/site-packages/scrapy/settings/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="156">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python/Lib/site-packages/scrapy/pipelines/media.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/carhome/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/carhome/spiders/bm.py">
+    <entry file="file://$PROJECT_DIR$/carhome/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="1377">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
           <folding>
-            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1586138148175" expanded="true" signature="3640:3645" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/carhome/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="135">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
-            <element signature="e#194#244#0" expanded="true" />
+            <element signature="e#197#247#0" expanded="true" />
+            <marker date="1586139615944" expanded="true" signature="297:299" ph="..." />
+            <marker date="1586139615944" expanded="true" signature="391:397" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/carhome/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="913">
-          <caret line="72" column="44" lean-forward="true" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+        <state relative-caret-position="332">
+          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carhome/spiders/bm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
