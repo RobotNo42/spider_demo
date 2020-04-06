@@ -9,7 +9,7 @@ from carhome.settings import IMAGES_STORE
 import os
 
 
-# 因为ImagesPipeline的下载位置是full/，而我们想要的不是这样，所以我们要自己写一个
+# 因为ImagesPipeline的下载位置是full/，而我们想要的不是这样，我们要给图片分类，所以我们要自己写一个
 class BMWImagesPipeline(ImagesPipeline):
 
     def get_media_requests(self, item, info):
