@@ -7,15 +7,15 @@ from scrapy.spiders import CrawlSpider, Rule
 class BsSpider(CrawlSpider):
     name = 'bs'
     allowed_domains = ['zhipin.com/hangzhou']
-    start_urls = ['http://zhipin.com/hangzhou/']
+    start_urls = ['https://www.zhipin.com/c101210100/?query=python&page=1&ka=page-1']
 
     rules = (
-        Rule(LinkExtractor(allow=r'Items/'), callback='parse_item', follow=True),
+        Rule(LinkExtractor(allow=r'.+query=python&page=\d+&ka=page-\d+'), follow=True),
+        Rule(LinkExtractor(allow=r'.+ka=search_list_jname_\d+blank&lid=nlp.+'), callback='parse_boss', follow=False)
     )
 
-    def parse_item(self, response):
+    def parse_boss(self, response):
+
         item = {}
-        #item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
-        #item['name'] = response.xpath('//div[@id="name"]').get()
-        #item['description'] = response.xpath('//div[@id="description"]').get()
-        return item
+
+        yield item
