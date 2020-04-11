@@ -2,6 +2,7 @@
 import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
+from boss.items import BossItem
 
 
 class BsSpider(CrawlSpider):
@@ -15,7 +16,12 @@ class BsSpider(CrawlSpider):
     )
 
     def parse_boss(self, response):
-
-        item = {}
-
+        job_name = response.xpath("//div[@class='job-banner']//div[@class='name']/h1/text()").get()
+        salary = response.xpath("//div[@class='job-banner']//div[@class='name']/span/text()").get()
+        working_address = response.xpath("//div[@class='job-banner']//div[@class='info-primary']/p/text()").getall()[0]
+        working_age = response.xpath("//div[@class='job-banner']//div[@class='info-primary']/p/text()").getall()[1]
+        education = response.xpath("//div[@class='job-banner']//div[@class='info-primary']/p/text()").getall()[2]
+        detail = response.xpath("//div[@class='job-box']//div[@class='job-detail']/").get()
+        item = BossItem(job_name=job_name, salary=salary, working_address=working_address, working_age=working_age,
+                        education=education, detail=detail)
         yield item
