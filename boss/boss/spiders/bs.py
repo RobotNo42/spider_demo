@@ -7,13 +7,16 @@ from boss.items import BossItem
 
 class BsSpider(CrawlSpider):
     name = 'bs'
-    allowed_domains = ['zhipin.com']
+    allowed_domains = ['www.zhipin.com']
     start_urls = ['https://www.zhipin.com/c101210100/?query=python&page=1']
 
     rules = (
-        Rule(LinkExtractor(allow=r'.+\?query=python&page=\d+'), follow=True),
+        Rule(LinkExtractor(allow=r'.+\?query=python&page=\d+'), callback='lll', follow=True),
         Rule(LinkExtractor(allow=r'.+job_detail/.+\.html'), callback='parse_boss', follow=False)
     )
+
+    def lll(self, response):
+        print('llllllllll')
 
     def parse_boss(self, response):
         job_name = response.xpath("//div[@class='job-banner']//div[@class='name']/h1/text()").get().strip()

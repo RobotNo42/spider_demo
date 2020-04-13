@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for boss project
+# Scrapy settings for boss_test project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'boss'
+BOT_NAME = 'boss_test'
 
-SPIDER_MODULES = ['boss.spiders']
-NEWSPIDER_MODULE = 'boss.spiders'
+SPIDER_MODULES = ['boss_test.spiders']
+NEWSPIDER_MODULE = 'boss_test.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'boss (+http://www.yourdomain.com)'
+#USER_AGENT = 'boss_test (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -27,7 +27,7 @@ ROBOTSTXT_OBEY = False
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 1
+#DOWNLOAD_DELAY = 3
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -40,31 +40,21 @@ DOWNLOAD_DELAY = 1
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'Accept-Language': 'zh-CN,zh;q=0.9',
-    'accept-encoding': 'gzip, deflate, br',
-    'sec-fetch-dest': 'document',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'same-origin',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-    'referer': 'https://www.zhipin.com/web/common/security-check.html?seed=ftJ3SPHFNehi4W3jj4Jk%2BoBr%2BldtV%2FUX%2F9hwK4U7QyE%3D&name=799dfa50&ts=1586679443313&callbackUrl=%2Fc101210100%2F%3Fquery%3Dpython%26page%3D1&srcRefere',
-    'cookie': 'lastCity=101210100; __c=1586662641; __g=-; Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1586356956,1586503728,1586590408,1586662641; __l=l=%2Fwww.zhipin.com%2Fc101210100%2F%3Fquery%3Dpython%26page%3D1&r=&friend_source=0&friend_source=0; __a=13957747.1586338740.1586590408.1586662641.46.5.5.46; __zp_stoken__=d572j55DgaxhgFvv000k9RfReXM0wpl1p3U0JekYzYyEYrpi87xmnrfZ5vyAaIcO7rajIyBWE%2BkbHaqj58BJLAXaA5CBEp1kSUTTTuIEPhccovSFCHbndKWICpb%2B4uGE1PPH; Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a=1586679467'
+  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'Accept-Language': 'en',
 }
-
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'boss.middlewares.BossSpiderMiddleware': 543,
+#    'boss_test.middlewares.BossTestSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-# DOWNLOADER_MIDDLEWARES = {
-#    'boss.middlewares.BossDownloaderMiddleware': 543,
-# }
+#DOWNLOADER_MIDDLEWARES = {
+#    'boss_test.middlewares.BossTestDownloaderMiddleware': 543,
+#}
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
@@ -75,7 +65,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'boss.pipelines.BossPipeline': 300,
+   'boss_test.pipelines.BossTestPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
